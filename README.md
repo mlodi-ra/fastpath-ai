@@ -7,8 +7,30 @@ parallel classification or regression heads. It does not generate prose, JSON, o
 The runtime returns only values permitted by the application contract, plus probabilities,
 confidence, variance where applicable, and an abstention signal.
 
-> Status: `v0.1.0-alpha`. This repository proves the runtime and training architecture. It is
-> not yet a production safety control or a released 3B model.
+> Status: `v0.1.0-alpha.1`. This is a proof-of-concept runtime with one small, trained reference
+> model. It is not the proposed `fastpath-3b-v1`, a transformer model, or a production safety
+> control.
+
+## What this release is
+
+This release demonstrates the FastPath programming model: compile a typed decision contract,
+encode an input once, evaluate several learned heads in parallel, and return only bounded values.
+It includes a reproducible ticket-triage model trained on synthetic data.
+
+| Component | Implemented in `v0.1.0-alpha.1` |
+|---|---|
+| Encoder | Fixed 512-dimensional signed feature hashing |
+| Choice head | Scikit-learn logistic regression |
+| Noul head | Scikit-learn logistic regression |
+| Score head | Scikit-learn ridge regression |
+| Training data | 320 synthetic ticket records |
+| Model artifact | 42 KB JSON file containing learned weights |
+| Inference | Local NumPy, single encoding pass with parallel head projections |
+
+This release does **not** contain a transformer backbone, a 3B-parameter model, pretrained or
+enterprise-ready weights, RLCD, Brier-loss optimization, System 2-to-1 distillation, multimodal
+input, or Rust, TypeScript, ONNX, and Edge TPU runtimes. Brier score is available as an evaluation
+metric; it is not the training objective used by the included reference trainer.
 
 ## Why it exists
 
@@ -80,6 +102,25 @@ The included alpha kernel uses signed feature hashing because it is small, deter
 auditable, and runnable without model downloads. The stable boundary is the encoder interface.
 A later ONNX transformer encoder can replace it without changing decision contracts or routing
 code.
+
+## Reference-model results
+
+The included model uses the first 80 percent of the 320 generated records for fitting and the
+remaining 64 records for temperature selection and evaluation. Running
+`python -m examples.ticket_triage.evaluate` currently reports:
+
+| Measure | Synthetic calibration split |
+|---|---:|
+| Category accuracy | 1.0000 |
+| Category Brier score | 0.0000 |
+| Category expected calibration error | 0.0000 |
+| Tier-3 page accuracy | 1.0000 |
+| Tier-3 page Brier score | 0.0000 |
+| Urgency mean absolute error | 0.1456 |
+
+These numbers are a pipeline check, not evidence of production generalization. The examples are
+synthetic and intentionally easy, and the evaluation partition is also used to select temperature.
+There is no untouched test set or representative enterprise benchmark in this release.
 
 ## What is actually guaranteed
 
