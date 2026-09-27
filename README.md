@@ -152,7 +152,7 @@ Do not promote a model based on accuracy alone. A release candidate should defin
 - `examples/ticket_triage`: synthetic end-to-end example
 - `benchmarks`: reproducible warm latency harness
 - `tests`: contract, artifact, runtime, and metric tests
-- `docs`: architecture, claims, and seven-day release plan
+- `docs`: architecture and claims register
 
 ## Responsible use
 
@@ -163,4 +163,4 @@ teacher outputs.
 
 ## License
 
-Apache License 2.0. See `LICENSE`.
+MIT License. See `LICENSE`.

@@ -8,7 +8,7 @@ version = "0.1.0a1"
 description = "Schema-first, non-generative decision runtime for deterministic software paths"
 readme = "README.md"
 requires-python = ">=3.10"
-license = "Apache-2.0"
+license = "MIT"
 license-files = ["LICENSE"]
 authors = [{name = "FastPath AI maintainers"}]
 dependencies = ["numpy>=1.26", "pydantic>=2.7"]

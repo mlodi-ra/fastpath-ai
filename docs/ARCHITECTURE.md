@@ -13,10 +13,10 @@ The application owns thresholds and actions. FastPath never executes a side effe
 
 ## Why the alpha uses feature hashing
 
-Training and shipping a credible 3B transformer in short time frame is not realistic. It would require
-licensed data, substantial compute, evaluation across multiple domains, weight distribution,
-and security review. The reference hashing encoder lets maintainers validate contracts, artifact
-format, calibration, abstention, packaging, and performance immediately.
+Training and shipping a credible 3B transformer is outside the scope of this alpha. It would
+require licensed data, substantial compute, evaluation across multiple domains, weight
+distribution, and security review. The reference hashing encoder lets maintainers validate
+contracts, artifact format, calibration, abstention, packaging, and reference-kernel performance.
 
 The next backbone should be a small encoder-only transformer exported to ONNX. Calling the model
 "non-autoregressive" is technically correct but not novel by itself. The product contribution is
@@ -37,4 +37,3 @@ The runtime reduces invalid-output risk but does not remove adversarial input, p
 model extraction, or biased labels. Model artifacts must be treated as trusted executable inputs.
 Production deployments should add signed artifacts, digest pinning, input limits, audit events,
 rate limits, and per-head rollback.
-
