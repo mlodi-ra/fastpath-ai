@@ -13,7 +13,7 @@ The application owns thresholds and actions. FastPath never executes a side effe
 
 ## Why the alpha uses feature hashing
 
-Training and shipping a credible 3B transformer in seven days is not realistic. It would require
+Training and shipping a credible 3B transformer in short time frame is not realistic. It would require
 licensed data, substantial compute, evaluation across multiple domains, weight distribution,
 and security review. The reference hashing encoder lets maintainers validate contracts, artifact
 format, calibration, abstention, packaging, and performance immediately.
