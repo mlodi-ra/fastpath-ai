@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "fastpath-ai"
-version = "0.1.0a1"
+version = "0.1.0a2"
 description = "Schema-first, non-generative decision runtime for deterministic software paths"
 readme = "README.md"
 requires-python = ">=3.10"

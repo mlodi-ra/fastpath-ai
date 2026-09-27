@@ -7,7 +7,7 @@ parallel classification or regression heads. It does not generate prose, JSON, o
 The runtime returns only values permitted by the application contract, plus probabilities,
 confidence, variance where applicable, and an abstention signal.
 
-> Status: `v0.1.0-alpha.1`. This is a proof-of-concept runtime with one small, trained reference
+> Status: `v0.1.0-alpha.2`. This is a proof-of-concept runtime with one small, trained reference
 > model. It is not the proposed `fastpath-3b-v1`, a transformer model, or a production safety
 > control.
 
@@ -17,7 +17,7 @@ This release demonstrates the FastPath programming model: compile a typed decisi
 encode an input once, evaluate several learned heads in parallel, and return only bounded values.
 It includes a reproducible ticket-triage model trained on synthetic data.
 
-| Component | Implemented in `v0.1.0-alpha.1` |
+| Component | Implemented in `v0.1.0-alpha.2` |
 |---|---|
 | Encoder | Fixed 512-dimensional signed feature hashing |
 | Choice head | Scikit-learn logistic regression |

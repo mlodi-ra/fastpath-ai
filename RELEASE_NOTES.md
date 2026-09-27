@@ -1,6 +1,6 @@
-# v0.1.0-alpha.1
+# v0.1.0-alpha.2
 
-First runnable FastPath AI reference release.
+MIT-licensed FastPath AI reference release with clarified project scope.
 
 ## Included
 
@@ -10,6 +10,8 @@ First runnable FastPath AI reference release.
 - Temperature scaling, Brier score, expected calibration error, and abstention
 - Reproducible ticket-triage training example
 - CLI, latency benchmark, tests, and GitHub Actions workflows
+- Explicit documentation of the reference model, synthetic evaluation, and limitations
+- MIT license for source and distribution packages
 
 ## Explicit non-claims
 
@@ -19,4 +21,3 @@ First runnable FastPath AI reference release.
   reported 0.82 confidence is correct exactly 82 percent of the time.
 - Sub-30 ms is a benchmark target, not a universal guarantee. Hardware, input length, encoder,
   and concurrency determine latency.
-
