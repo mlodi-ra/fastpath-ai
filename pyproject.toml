@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fastpath-ai"
+version = "0.1.0a1"
+description = "Schema-first, non-generative decision runtime for deterministic software paths"
+readme = "README.md"
+requires-python = ">=3.10"
+license = "Apache-2.0"
+license-files = ["LICENSE"]
+authors = [{name = "FastPath AI maintainers"}]
+dependencies = ["numpy>=1.26", "pydantic>=2.7"]
+classifiers = [
+  "Development Status :: 3 - Alpha",
+  "Programming Language :: Python :: 3",
+]
+
+[project.optional-dependencies]
+train = ["scikit-learn>=1.4"]
+dev = ["pytest>=8", "ruff>=0.6", "mypy>=1.11"]
+
+[project.scripts]
+fastpath = "fastpath.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"

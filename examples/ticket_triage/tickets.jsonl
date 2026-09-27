@@ -1,0 +1,320 @@
+{"state": "routine standard queue. User asks where to find training for svc-6", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "critical immediate page. Malware alert detected on endpoint svc-8", "category": "Security", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. Network packet loss affecting svc-8 in west", "category": "Infrastructure", "urgency": 3, "requires_tier3_page": false}
+{"state": "critical immediate page. Malware alert detected on endpoint svc-0", "category": "Security", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. Possible credential theft and unauthorized access to svc-7", "category": "Security", "urgency": 3, "requires_tier3_page": false}
+{"state": "routine standard queue. Possible credential theft and unauthorized access to svc-11", "category": "Security", "urgency": 3, "requires_tier3_page": false}
+{"state": "routine standard queue. Request documentation for service svc-7", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "critical immediate page. Malware alert detected on endpoint svc-9", "category": "Security", "urgency": 5, "requires_tier3_page": true}
+{"state": "critical immediate page. Possible credential theft and unauthorized access to svc-4", "category": "Security", "urgency": 5, "requires_tier3_page": true}
+{"state": "critical immediate page. Network packet loss affecting svc-7 in us-east-1", "category": "Infrastructure", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. Payment was charged twice on account svc-5", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "critical immediate page. Production svc-5 CPU at 88% and connections exhausted in west", "category": "Infrastructure", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. Request documentation for service svc-8", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Payment was charged twice on account svc-7", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Possible credential theft and unauthorized access to svc-12", "category": "Security", "urgency": 3, "requires_tier3_page": false}
+{"state": "critical immediate page. Production svc-11 CPU at 41% and connections exhausted in EU", "category": "Infrastructure", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. Network packet loss affecting svc-9 in west", "category": "Infrastructure", "urgency": 3, "requires_tier3_page": false}
+{"state": "routine standard queue. User asks where to find training for svc-0", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Request documentation for service svc-0", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Refund missing for billing account svc-3", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. How do I update the display name for svc-11", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. How do I update the display name for svc-10", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. How do I update the display name for svc-5", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Suspicious login from us-east-1 for privileged account svc-4", "category": "Security", "urgency": 3, "requires_tier3_page": false}
+{"state": "routine standard queue. Request documentation for service svc-9", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "critical immediate page. Network packet loss affecting svc-10 in us-east-1", "category": "Infrastructure", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. Refund missing for billing account svc-6", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Payment was charged twice on account svc-4", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Suspicious login from EU for privileged account svc-4", "category": "Security", "urgency": 3, "requires_tier3_page": false}
+{"state": "routine standard queue. How do I update the display name for svc-0", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "critical immediate page. Production svc-2 CPU at 78% and connections exhausted in west", "category": "Infrastructure", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. Customer reports duplicate invoice svc-10 for $91", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Refund missing for billing account svc-6", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. How do I update the display name for svc-6", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Production svc-8 CPU at 19% and connections exhausted in EU", "category": "Infrastructure", "urgency": 3, "requires_tier3_page": false}
+{"state": "routine standard queue. Production svc-6 CPU at 17% and connections exhausted in west", "category": "Infrastructure", "urgency": 3, "requires_tier3_page": false}
+{"state": "routine standard queue. Refund missing for billing account svc-5", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Customer reports duplicate invoice svc-0 for $81", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Customer reports duplicate invoice svc-6 for $93", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Suspicious login from EU for privileged account svc-5", "category": "Security", "urgency": 3, "requires_tier3_page": false}
+{"state": "critical immediate page. svc-0 is unavailable; timeout rate is 71% in west", "category": "Infrastructure", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. Payment was charged twice on account svc-3", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Possible credential theft and unauthorized access to svc-2", "category": "Security", "urgency": 3, "requires_tier3_page": false}
+{"state": "routine standard queue. Payment was charged twice on account svc-9", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "critical immediate page. Malware alert detected on endpoint svc-3", "category": "Security", "urgency": 5, "requires_tier3_page": true}
+{"state": "critical immediate page. Malware alert detected on endpoint svc-3", "category": "Security", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. User asks where to find training for svc-3", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "critical immediate page. Possible credential theft and unauthorized access to svc-5", "category": "Security", "urgency": 5, "requires_tier3_page": true}
+{"state": "critical immediate page. Network packet loss affecting svc-5 in EU", "category": "Infrastructure", "urgency": 5, "requires_tier3_page": true}
+{"state": "critical immediate page. Production svc-3 CPU at 66% and connections exhausted in us-east-1", "category": "Infrastructure", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. Customer reports duplicate invoice svc-4 for $64", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "critical immediate page. Suspicious login from west for privileged account svc-6", "category": "Security", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. User asks where to find training for svc-12", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. User asks where to find training for svc-7", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "critical immediate page. Possible credential theft and unauthorized access to svc-8", "category": "Security", "urgency": 5, "requires_tier3_page": true}
+{"state": "critical immediate page. svc-8 is unavailable; timeout rate is 98% in EU", "category": "Infrastructure", "urgency": 5, "requires_tier3_page": true}
+{"state": "critical immediate page. Malware alert detected on endpoint svc-0", "category": "Security", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. Refund missing for billing account svc-8", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Suspicious login from EU for privileged account svc-2", "category": "Security", "urgency": 3, "requires_tier3_page": false}
+{"state": "critical immediate page. svc-1 is unavailable; timeout rate is 91% in us-east-1", "category": "Infrastructure", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. svc-0 is unavailable; timeout rate is 99% in EU", "category": "Infrastructure", "urgency": 3, "requires_tier3_page": false}
+{"state": "routine standard queue. How do I update the display name for svc-1", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "critical immediate page. Malware alert detected on endpoint svc-2", "category": "Security", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. Suspicious login from EU for privileged account svc-8", "category": "Security", "urgency": 3, "requires_tier3_page": false}
+{"state": "routine standard queue. How do I update the display name for svc-6", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "critical immediate page. Possible credential theft and unauthorized access to svc-0", "category": "Security", "urgency": 5, "requires_tier3_page": true}
+{"state": "critical immediate page. Malware alert detected on endpoint svc-2", "category": "Security", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. Refund missing for billing account svc-3", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Suspicious login from us-east-1 for privileged account svc-5", "category": "Security", "urgency": 3, "requires_tier3_page": false}
+{"state": "critical immediate page. Possible credential theft and unauthorized access to svc-6", "category": "Security", "urgency": 5, "requires_tier3_page": true}
+{"state": "critical immediate page. Network packet loss affecting svc-0 in west", "category": "Infrastructure", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. Possible credential theft and unauthorized access to svc-9", "category": "Security", "urgency": 3, "requires_tier3_page": false}
+{"state": "routine standard queue. svc-7 is unavailable; timeout rate is 83% in west", "category": "Infrastructure", "urgency": 3, "requires_tier3_page": false}
+{"state": "routine standard queue. Network packet loss affecting svc-9 in us-east-1", "category": "Infrastructure", "urgency": 3, "requires_tier3_page": false}
+{"state": "routine standard queue. Malware alert detected on endpoint svc-9", "category": "Security", "urgency": 3, "requires_tier3_page": false}
+{"state": "routine standard queue. Possible credential theft and unauthorized access to svc-6", "category": "Security", "urgency": 3, "requires_tier3_page": false}
+{"state": "routine standard queue. Request documentation for service svc-11", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "critical immediate page. Possible credential theft and unauthorized access to svc-3", "category": "Security", "urgency": 5, "requires_tier3_page": true}
+{"state": "critical immediate page. Suspicious login from west for privileged account svc-11", "category": "Security", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. How do I update the display name for svc-6", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Network packet loss affecting svc-9 in EU", "category": "Infrastructure", "urgency": 3, "requires_tier3_page": false}
+{"state": "critical immediate page. Production svc-4 CPU at 37% and connections exhausted in us-east-1", "category": "Infrastructure", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. Request documentation for service svc-5", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "critical immediate page. Suspicious login from us-east-1 for privileged account svc-7", "category": "Security", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. Malware alert detected on endpoint svc-12", "category": "Security", "urgency": 3, "requires_tier3_page": false}
+{"state": "critical immediate page. Malware alert detected on endpoint svc-7", "category": "Security", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. Request documentation for service svc-10", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Production svc-12 CPU at 41% and connections exhausted in EU", "category": "Infrastructure", "urgency": 3, "requires_tier3_page": false}
+{"state": "routine standard queue. Payment was charged twice on account svc-7", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Customer reports duplicate invoice svc-0 for $81", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Malware alert detected on endpoint svc-1", "category": "Security", "urgency": 3, "requires_tier3_page": false}
+{"state": "critical immediate page. Network packet loss affecting svc-7 in us-east-1", "category": "Infrastructure", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. How do I update the display name for svc-7", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "critical immediate page. Network packet loss affecting svc-1 in west", "category": "Infrastructure", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. User asks where to find training for svc-4", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "critical immediate page. svc-4 is unavailable; timeout rate is 31% in us-east-1", "category": "Infrastructure", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. How do I update the display name for svc-9", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. How do I update the display name for svc-11", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Customer reports duplicate invoice svc-8 for $55", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "critical immediate page. Production svc-12 CPU at 18% and connections exhausted in EU", "category": "Infrastructure", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. User asks where to find training for svc-11", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. User asks where to find training for svc-2", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. svc-10 is unavailable; timeout rate is 68% in west", "category": "Infrastructure", "urgency": 3, "requires_tier3_page": false}
+{"state": "routine standard queue. Customer reports duplicate invoice svc-4 for $26", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Refund missing for billing account svc-5", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Payment was charged twice on account svc-2", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Customer reports duplicate invoice svc-11 for $94", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. User asks where to find training for svc-7", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "critical immediate page. Production svc-6 CPU at 95% and connections exhausted in EU", "category": "Infrastructure", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. User asks where to find training for svc-1", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. User asks where to find training for svc-10", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Request documentation for service svc-7", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Possible credential theft and unauthorized access to svc-0", "category": "Security", "urgency": 3, "requires_tier3_page": false}
+{"state": "routine standard queue. Malware alert detected on endpoint svc-3", "category": "Security", "urgency": 3, "requires_tier3_page": false}
+{"state": "critical immediate page. Production svc-8 CPU at 50% and connections exhausted in EU", "category": "Infrastructure", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. User asks where to find training for svc-4", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Network packet loss affecting svc-3 in west", "category": "Infrastructure", "urgency": 3, "requires_tier3_page": false}
+{"state": "routine standard queue. Refund missing for billing account svc-3", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Production svc-3 CPU at 84% and connections exhausted in EU", "category": "Infrastructure", "urgency": 3, "requires_tier3_page": false}
+{"state": "critical immediate page. Suspicious login from us-east-1 for privileged account svc-6", "category": "Security", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. Request documentation for service svc-8", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Customer reports duplicate invoice svc-11 for $32", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Payment was charged twice on account svc-1", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Refund missing for billing account svc-11", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Request documentation for service svc-8", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Refund missing for billing account svc-12", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Customer reports duplicate invoice svc-3 for $81", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Suspicious login from EU for privileged account svc-0", "category": "Security", "urgency": 3, "requires_tier3_page": false}
+{"state": "critical immediate page. svc-11 is unavailable; timeout rate is 56% in us-east-1", "category": "Infrastructure", "urgency": 5, "requires_tier3_page": true}
+{"state": "critical immediate page. Production svc-5 CPU at 23% and connections exhausted in EU", "category": "Infrastructure", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. Refund missing for billing account svc-1", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "critical immediate page. Possible credential theft and unauthorized access to svc-10", "category": "Security", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. How do I update the display name for svc-8", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Payment was charged twice on account svc-5", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Network packet loss affecting svc-4 in us-east-1", "category": "Infrastructure", "urgency": 3, "requires_tier3_page": false}
+{"state": "routine standard queue. Request documentation for service svc-1", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. How do I update the display name for svc-6", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Refund missing for billing account svc-9", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. How do I update the display name for svc-2", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. User asks where to find training for svc-9", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. User asks where to find training for svc-12", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. User asks where to find training for svc-11", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Payment was charged twice on account svc-12", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Possible credential theft and unauthorized access to svc-9", "category": "Security", "urgency": 3, "requires_tier3_page": false}
+{"state": "routine standard queue. Malware alert detected on endpoint svc-6", "category": "Security", "urgency": 3, "requires_tier3_page": false}
+{"state": "critical immediate page. Network packet loss affecting svc-10 in west", "category": "Infrastructure", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. Refund missing for billing account svc-10", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Network packet loss affecting svc-11 in EU", "category": "Infrastructure", "urgency": 3, "requires_tier3_page": false}
+{"state": "routine standard queue. Payment was charged twice on account svc-12", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Production svc-7 CPU at 64% and connections exhausted in EU", "category": "Infrastructure", "urgency": 3, "requires_tier3_page": false}
+{"state": "routine standard queue. Payment was charged twice on account svc-0", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Payment was charged twice on account svc-0", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Customer reports duplicate invoice svc-2 for $76", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "critical immediate page. Possible credential theft and unauthorized access to svc-1", "category": "Security", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. How do I update the display name for svc-10", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Customer reports duplicate invoice svc-6 for $81", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Request documentation for service svc-7", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. User asks where to find training for svc-0", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Refund missing for billing account svc-2", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "critical immediate page. Production svc-12 CPU at 81% and connections exhausted in west", "category": "Infrastructure", "urgency": 5, "requires_tier3_page": true}
+{"state": "critical immediate page. svc-9 is unavailable; timeout rate is 50% in EU", "category": "Infrastructure", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. Customer reports duplicate invoice svc-4 for $31", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Malware alert detected on endpoint svc-0", "category": "Security", "urgency": 3, "requires_tier3_page": false}
+{"state": "routine standard queue. Customer reports duplicate invoice svc-11 for $34", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Refund missing for billing account svc-4", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Production svc-1 CPU at 39% and connections exhausted in us-east-1", "category": "Infrastructure", "urgency": 3, "requires_tier3_page": false}
+{"state": "routine standard queue. Refund missing for billing account svc-11", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. svc-5 is unavailable; timeout rate is 72% in us-east-1", "category": "Infrastructure", "urgency": 3, "requires_tier3_page": false}
+{"state": "routine standard queue. How do I update the display name for svc-4", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Refund missing for billing account svc-9", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "critical immediate page. Malware alert detected on endpoint svc-12", "category": "Security", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. Network packet loss affecting svc-6 in us-east-1", "category": "Infrastructure", "urgency": 3, "requires_tier3_page": false}
+{"state": "critical immediate page. Possible credential theft and unauthorized access to svc-4", "category": "Security", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. Request documentation for service svc-9", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Suspicious login from west for privileged account svc-7", "category": "Security", "urgency": 3, "requires_tier3_page": false}
+{"state": "routine standard queue. Request documentation for service svc-5", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Payment was charged twice on account svc-7", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "critical immediate page. Malware alert detected on endpoint svc-2", "category": "Security", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. Payment was charged twice on account svc-2", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Refund missing for billing account svc-3", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Malware alert detected on endpoint svc-12", "category": "Security", "urgency": 3, "requires_tier3_page": false}
+{"state": "routine standard queue. How do I update the display name for svc-1", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. User asks where to find training for svc-8", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "critical immediate page. Suspicious login from west for privileged account svc-12", "category": "Security", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. Payment was charged twice on account svc-2", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Malware alert detected on endpoint svc-7", "category": "Security", "urgency": 3, "requires_tier3_page": false}
+{"state": "routine standard queue. Malware alert detected on endpoint svc-11", "category": "Security", "urgency": 3, "requires_tier3_page": false}
+{"state": "critical immediate page. Production svc-9 CPU at 20% and connections exhausted in west", "category": "Infrastructure", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. Refund missing for billing account svc-4", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "critical immediate page. svc-3 is unavailable; timeout rate is 95% in us-east-1", "category": "Infrastructure", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. Request documentation for service svc-3", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. How do I update the display name for svc-9", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Possible credential theft and unauthorized access to svc-1", "category": "Security", "urgency": 3, "requires_tier3_page": false}
+{"state": "routine standard queue. Refund missing for billing account svc-0", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "critical immediate page. Suspicious login from us-east-1 for privileged account svc-9", "category": "Security", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. Customer reports duplicate invoice svc-9 for $80", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Suspicious login from us-east-1 for privileged account svc-8", "category": "Security", "urgency": 3, "requires_tier3_page": false}
+{"state": "routine standard queue. Request documentation for service svc-5", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Network packet loss affecting svc-2 in us-east-1", "category": "Infrastructure", "urgency": 3, "requires_tier3_page": false}
+{"state": "routine standard queue. Suspicious login from EU for privileged account svc-8", "category": "Security", "urgency": 3, "requires_tier3_page": false}
+{"state": "critical immediate page. Malware alert detected on endpoint svc-7", "category": "Security", "urgency": 5, "requires_tier3_page": true}
+{"state": "critical immediate page. Suspicious login from us-east-1 for privileged account svc-0", "category": "Security", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. Request documentation for service svc-4", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Malware alert detected on endpoint svc-2", "category": "Security", "urgency": 3, "requires_tier3_page": false}
+{"state": "critical immediate page. Production svc-6 CPU at 40% and connections exhausted in EU", "category": "Infrastructure", "urgency": 5, "requires_tier3_page": true}
+{"state": "critical immediate page. Production svc-2 CPU at 32% and connections exhausted in us-east-1", "category": "Infrastructure", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. Production svc-0 CPU at 63% and connections exhausted in EU", "category": "Infrastructure", "urgency": 3, "requires_tier3_page": false}
+{"state": "routine standard queue. Payment was charged twice on account svc-7", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. User asks where to find training for svc-5", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Payment was charged twice on account svc-7", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. How do I update the display name for svc-12", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Request documentation for service svc-1", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Refund missing for billing account svc-0", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Request documentation for service svc-3", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Request documentation for service svc-5", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. svc-8 is unavailable; timeout rate is 60% in west", "category": "Infrastructure", "urgency": 3, "requires_tier3_page": false}
+{"state": "routine standard queue. Customer reports duplicate invoice svc-11 for $95", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Possible credential theft and unauthorized access to svc-6", "category": "Security", "urgency": 3, "requires_tier3_page": false}
+{"state": "routine standard queue. Request documentation for service svc-1", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Network packet loss affecting svc-1 in west", "category": "Infrastructure", "urgency": 3, "requires_tier3_page": false}
+{"state": "routine standard queue. svc-10 is unavailable; timeout rate is 42% in EU", "category": "Infrastructure", "urgency": 3, "requires_tier3_page": false}
+{"state": "critical immediate page. Possible credential theft and unauthorized access to svc-8", "category": "Security", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. Production svc-2 CPU at 34% and connections exhausted in us-east-1", "category": "Infrastructure", "urgency": 3, "requires_tier3_page": false}
+{"state": "critical immediate page. Network packet loss affecting svc-4 in us-east-1", "category": "Infrastructure", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. User asks where to find training for svc-0", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Network packet loss affecting svc-7 in EU", "category": "Infrastructure", "urgency": 3, "requires_tier3_page": false}
+{"state": "routine standard queue. Network packet loss affecting svc-10 in west", "category": "Infrastructure", "urgency": 3, "requires_tier3_page": false}
+{"state": "routine standard queue. Malware alert detected on endpoint svc-10", "category": "Security", "urgency": 3, "requires_tier3_page": false}
+{"state": "critical immediate page. Possible credential theft and unauthorized access to svc-10", "category": "Security", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. User asks where to find training for svc-10", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Network packet loss affecting svc-12 in west", "category": "Infrastructure", "urgency": 3, "requires_tier3_page": false}
+{"state": "routine standard queue. How do I update the display name for svc-9", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "critical immediate page. Network packet loss affecting svc-0 in west", "category": "Infrastructure", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. Production svc-4 CPU at 91% and connections exhausted in west", "category": "Infrastructure", "urgency": 3, "requires_tier3_page": false}
+{"state": "routine standard queue. Customer reports duplicate invoice svc-10 for $87", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "critical immediate page. Suspicious login from us-east-1 for privileged account svc-4", "category": "Security", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. Suspicious login from us-east-1 for privileged account svc-3", "category": "Security", "urgency": 3, "requires_tier3_page": false}
+{"state": "critical immediate page. Production svc-9 CPU at 58% and connections exhausted in EU", "category": "Infrastructure", "urgency": 5, "requires_tier3_page": true}
+{"state": "critical immediate page. Possible credential theft and unauthorized access to svc-5", "category": "Security", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. Production svc-1 CPU at 93% and connections exhausted in us-east-1", "category": "Infrastructure", "urgency": 3, "requires_tier3_page": false}
+{"state": "routine standard queue. How do I update the display name for svc-4", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Refund missing for billing account svc-8", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "critical immediate page. Malware alert detected on endpoint svc-1", "category": "Security", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. Customer reports duplicate invoice svc-12 for $39", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Refund missing for billing account svc-1", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Malware alert detected on endpoint svc-10", "category": "Security", "urgency": 3, "requires_tier3_page": false}
+{"state": "routine standard queue. Refund missing for billing account svc-6", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "critical immediate page. Suspicious login from west for privileged account svc-5", "category": "Security", "urgency": 5, "requires_tier3_page": true}
+{"state": "critical immediate page. Production svc-8 CPU at 25% and connections exhausted in EU", "category": "Infrastructure", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. Request documentation for service svc-0", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "critical immediate page. svc-6 is unavailable; timeout rate is 28% in EU", "category": "Infrastructure", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. Customer reports duplicate invoice svc-1 for $13", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "critical immediate page. Suspicious login from EU for privileged account svc-11", "category": "Security", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. Payment was charged twice on account svc-2", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "critical immediate page. Suspicious login from EU for privileged account svc-10", "category": "Security", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. Refund missing for billing account svc-10", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Refund missing for billing account svc-12", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Network packet loss affecting svc-2 in west", "category": "Infrastructure", "urgency": 3, "requires_tier3_page": false}
+{"state": "routine standard queue. Suspicious login from us-east-1 for privileged account svc-3", "category": "Security", "urgency": 3, "requires_tier3_page": false}
+{"state": "routine standard queue. How do I update the display name for svc-2", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Customer reports duplicate invoice svc-6 for $23", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Request documentation for service svc-0", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "critical immediate page. Network packet loss affecting svc-2 in us-east-1", "category": "Infrastructure", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. Payment was charged twice on account svc-12", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "critical immediate page. Malware alert detected on endpoint svc-11", "category": "Security", "urgency": 5, "requires_tier3_page": true}
+{"state": "critical immediate page. Network packet loss affecting svc-1 in west", "category": "Infrastructure", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. Customer reports duplicate invoice svc-7 for $74", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Payment was charged twice on account svc-1", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. How do I update the display name for svc-3", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Payment was charged twice on account svc-5", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Malware alert detected on endpoint svc-1", "category": "Security", "urgency": 3, "requires_tier3_page": false}
+{"state": "routine standard queue. Refund missing for billing account svc-10", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Possible credential theft and unauthorized access to svc-10", "category": "Security", "urgency": 3, "requires_tier3_page": false}
+{"state": "routine standard queue. Refund missing for billing account svc-9", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. svc-5 is unavailable; timeout rate is 65% in us-east-1", "category": "Infrastructure", "urgency": 3, "requires_tier3_page": false}
+{"state": "routine standard queue. How do I update the display name for svc-2", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. How do I update the display name for svc-11", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Refund missing for billing account svc-1", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "critical immediate page. Possible credential theft and unauthorized access to svc-12", "category": "Security", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. Customer reports duplicate invoice svc-5 for $56", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Request documentation for service svc-2", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Customer reports duplicate invoice svc-8 for $42", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "critical immediate page. Production svc-10 CPU at 18% and connections exhausted in west", "category": "Infrastructure", "urgency": 5, "requires_tier3_page": true}
+{"state": "critical immediate page. svc-11 is unavailable; timeout rate is 27% in EU", "category": "Infrastructure", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. svc-5 is unavailable; timeout rate is 43% in us-east-1", "category": "Infrastructure", "urgency": 3, "requires_tier3_page": false}
+{"state": "routine standard queue. Malware alert detected on endpoint svc-11", "category": "Security", "urgency": 3, "requires_tier3_page": false}
+{"state": "routine standard queue. How do I update the display name for svc-3", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Payment was charged twice on account svc-9", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. How do I update the display name for svc-12", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Payment was charged twice on account svc-10", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Network packet loss affecting svc-6 in us-east-1", "category": "Infrastructure", "urgency": 3, "requires_tier3_page": false}
+{"state": "routine standard queue. Request documentation for service svc-12", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Customer reports duplicate invoice svc-0 for $37", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "critical immediate page. svc-12 is unavailable; timeout rate is 60% in west", "category": "Infrastructure", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. Request documentation for service svc-6", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "critical immediate page. Production svc-7 CPU at 89% and connections exhausted in west", "category": "Infrastructure", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. Request documentation for service svc-3", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. svc-4 is unavailable; timeout rate is 69% in us-east-1", "category": "Infrastructure", "urgency": 3, "requires_tier3_page": false}
+{"state": "critical immediate page. Suspicious login from west for privileged account svc-9", "category": "Security", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. Request documentation for service svc-12", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. User asks where to find training for svc-1", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. svc-12 is unavailable; timeout rate is 24% in west", "category": "Infrastructure", "urgency": 3, "requires_tier3_page": false}
+{"state": "routine standard queue. Production svc-1 CPU at 20% and connections exhausted in us-east-1", "category": "Infrastructure", "urgency": 3, "requires_tier3_page": false}
+{"state": "routine standard queue. Customer reports duplicate invoice svc-8 for $54", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Production svc-3 CPU at 94% and connections exhausted in us-east-1", "category": "Infrastructure", "urgency": 3, "requires_tier3_page": false}
+{"state": "routine standard queue. Refund missing for billing account svc-8", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Possible credential theft and unauthorized access to svc-4", "category": "Security", "urgency": 3, "requires_tier3_page": false}
+{"state": "routine standard queue. Suspicious login from EU for privileged account svc-1", "category": "Security", "urgency": 3, "requires_tier3_page": false}
+{"state": "routine standard queue. Request documentation for service svc-4", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "critical immediate page. Suspicious login from us-east-1 for privileged account svc-1", "category": "Security", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. Network packet loss affecting svc-11 in EU", "category": "Infrastructure", "urgency": 3, "requires_tier3_page": false}
+{"state": "critical immediate page. Production svc-0 CPU at 51% and connections exhausted in west", "category": "Infrastructure", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. Request documentation for service svc-10", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. How do I update the display name for svc-8", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Request documentation for service svc-2", "category": "General", "urgency": 2, "requires_tier3_page": false}
+{"state": "routine standard queue. Suspicious login from us-east-1 for privileged account svc-5", "category": "Security", "urgency": 3, "requires_tier3_page": false}
+{"state": "critical immediate page. Network packet loss affecting svc-3 in EU", "category": "Infrastructure", "urgency": 5, "requires_tier3_page": true}
+{"state": "routine standard queue. Production svc-0 CPU at 60% and connections exhausted in west", "category": "Infrastructure", "urgency": 3, "requires_tier3_page": false}
+{"state": "routine standard queue. Production svc-11 CPU at 16% and connections exhausted in us-east-1", "category": "Infrastructure", "urgency": 3, "requires_tier3_page": false}
+{"state": "routine standard queue. Payment was charged twice on account svc-1", "category": "Billing", "urgency": 2, "requires_tier3_page": false}
